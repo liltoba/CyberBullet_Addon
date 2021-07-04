@@ -3,21 +3,21 @@
     "Photo":"https://i.imgur.com/GUpTbvW.png",
     "Link":"https://filebin.net/lw5j07i1iepwiind/GhoulPlugin.zip",
     "ScreenShot":"http://google.com/",
-    "Name":"VirusTotal",
+    "Name":"ScreenShot",
     "Color":"#111"
   },
   {
     "Photo":"https://i.imgur.com/cL3vIpS.png",
     "Link":"https://filebin.net/lw5j07i1iepwiind/OBtwitter-Release.zip",
     "ScreenShot":"https://www.youtube.com/",
-    "Name":"VirusTotal",
-    "Color":"#88c9ff"
+    "Name":"ScreenShot",
+    "Color":"#111"
   },
     {
     "Photo":"https://i.imgur.com/nzCT4R6.png",
     "Link":"https://filebin.net/lw5j07i1iepwiind/PasteBinPlugin.zip",
     "ScreenShot":"http://google.com/",
-    "Name":"VirusTotal",
-    "Color":"#6f58cf"
+    "Name":"ScreenShot",
+    "Color":"#111"
   },
 ]
